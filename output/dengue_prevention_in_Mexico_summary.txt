@@ -1,0 +1,32 @@
+SUMMARY FOR: dengue_prevention_in_Mexico.pdf
+==================================================
+
+After reviewing and merging the provided study details, I have created a clean structured summary:
+
+* **Author(s)**: Alvarado-Castro et al.
+* **Year**: 2019
+* **Study design**: Secondary analysis of a cluster randomized controlled trial (Camino Verde trial)
+* **Sample size**: 10,112 households (5181 in intervention clusters and 4931 in control clusters, or 45 intervention clusters and 45 control clusters)
+* **Baseline data**: 
+	+ Social capital index: 4 constructs (involvement, participation, investment, and communication)
+	+ Distribution of household social capital scores: bimodal distribution, similar between intervention and control households
+	+ Households in rural areas were more likely to have high social capital scores (58% vs 23%, OR 4.51, 95% CI 3.26-6.26)
+* **After intervention data**:
+	+ Social capital index: minimum value of 0.77 and a maximum value of 0.84, with weights of individual variables in each construct provided in Table 2
+	+ Vector indices: 
+		- Household positivity for larvae or pupae
+		- Household positivity for pupae
+		- Pupae per household index (PHI)
+		- Pupae per person index (PPI)
+	+ Households with high social capital: more likely to be negative for larvae or pupae (OR 1.38, 95% CI 1.12-1.69) and for pupae specifically (OR 1.37, 95% CI 1.08-1.74)
+	+ Interaction between intervention status and social capital: a combined variable of intervention/high social capital remained associated with larvae or pupae (ORa 1.56, 95% CI 1.19-2.04) and with pupae specifically (ORa 1.65, 95% CI 1.20-2.28)
+	+ Mean pupal indices were lower among households with high social capital scores, significant only in rural areas
+	+ Reduced vector indices in intervention clusters compared to control clusters
+	+ Households having high social capital in intervention communities being least likely to have immature forms of the dengue vector present.
+
+I made the following decisions to resolve conflicts and merge duplicates:
+
+* The study design was clarified as a secondary analysis of a cluster randomized controlled trial (Camino Verde trial).
+* The sample size was taken from the most detailed source, which reported 10,112 households with breakdown by intervention and control clusters.
+* Baseline data were compiled from multiple sources, including the social capital index and distribution of household social capital scores.
+* After intervention data were merged, with care taken to ensure that the results were consistent across sources. Where results were reported multiple times, the most detailed or specific result was retained.
