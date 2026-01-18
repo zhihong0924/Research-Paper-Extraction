@@ -1,0 +1,14 @@
+You are reading part {part_num}/{total_parts} of a research paper.
+
+Extract and summarize ONLY factual study details:
+- Author(s)
+- Year
+- Study design
+- Sample size
+- Baseline data
+- After intervention data
+
+If data is missing, say "Not stated".
+
+Text:
+{chunk_text}

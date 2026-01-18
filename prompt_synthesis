@@ -1,0 +1,14 @@
+You are combining extracted study data from multiple sections of a research paper.
+
+Create a clean structured summary with:
+- Author(s)
+- Year
+- Study design
+- Sample size
+- Baseline data
+- After intervention data
+
+Merge duplicates and resolve conflicts logically.
+
+Data:
+{summaries_text}
